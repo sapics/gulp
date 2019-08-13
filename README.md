@@ -1,5 +1,5 @@
 
-## @sapics/gulp [![NPM version](https://badge.fury.io/js/%40sapics%2Fgulp.svg)](https://badge.fury.io/js/%40sapics%2Fgulp)
+## gulp-v3 [![NPM version](https://badge.fury.io/js/gulp-v3.svg)](https://badge.fury.io/js/gulp-v3)
 
 This is vulnerabilities fixed version from [gulp@3.x](https://github.com/gulpjs/gulp). 
 
@@ -22,7 +22,7 @@ For a Getting started guide, API docs, recipes, making a plugin, etc. check out 
 This file will give you a taste of what gulp does.
 
 ```js
-var gulp = require('@sapics/gulp');
+var gulp = require('gulp-v3');
 var coffee = require('gulp-coffee');
 var concat = require('gulp-concat');
 var uglify = require('gulp-uglify');
