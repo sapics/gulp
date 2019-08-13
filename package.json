@@ -1,7 +1,7 @@
 {
   "name": "@sapics/gulp",
   "description": "The streaming build system",
-  "version": "3.10.0",
+  "version": "3.11.0",
   "homepage": "http://gulpjs.com",
   "repository": "sapics/gulp",
   "author": "Fractal <contact@wearefractal.com> (http://wearefractal.com/)",
@@ -45,7 +45,7 @@
     "coveralls": "^2.7.0",
     "eslint": "^1.7.3",
     "eslint-config-gulp": "^2.0.0",
-    "graceful-fs": "^3.0.0",
+    "graceful-fs": "^4.2.1",
     "istanbul": "^0.3.0",
     "jscs": "^2.3.5",
     "jscs-preset-gulp": "^1.0.0",
